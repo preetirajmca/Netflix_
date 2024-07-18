@@ -2,9 +2,9 @@
 Welcome to the Netflix Clone repository! This project aims to replicate the core functionality and user interface of Netflix using HTML, CSS, and JavaScript. The clone includes features like browsing movies, viewing details, and a responsive design that adapts to various screen sizes.
 
 <h2>Features</h2>
-<b>Home Page:</b>  A main landing page showcasing featured movies and categories.
- <b>Home Page:</b>: Browse movies by different genres and categories.
-<b>Responsive Design: </b>Adapts to different screen sizes for an optimal viewing experience on mobile, tablet, and desktop devices.
+<b>Home Page:</b>  A main landing page showcasing featured movies and categories. <br>
+ <b>Home Page:</b>: Browse movies by different genres and categories.<br>
+<b>Responsive Design: </b>Adapts to different screen sizes for an optimal viewing experience on mobile, tablet, and desktop devices.<br>
 <b>Movie Details:</b> View detailed information about a selected movie, including a description, rating, and more.
 <h2>Technologies Used</h2>
 <b>HTML5:</b> For structuring the content.
