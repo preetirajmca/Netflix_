@@ -14,29 +14,29 @@ Welcome to the Netflix Clone repository! This project aims to replicate the core
 Getting Started
 To get a local copy up and running, follow these steps:
 
-Prerequisites
-A web browser (Chrome, Firefox, etc.)
-Installation
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/your-username/netflix-clone.git
-Navigate to the project directory:
-bash
-Copy code
-cd netflix-clone
-Open index.html in your browser to view the project.
-Usage
-Browse through different categories of movies.
-Click on a movie to view more details.
-Contributing
+<h2>Prerequisites</h2>
+A web browser (Chrome, Firefox, etc.) <br>
+Installation <br>
+Clone the repository: <br>
+bash <br>
+Copy code <br>
+git clone https://github.com/your-username/netflix-clone.git <br>
+Navigate to the project directory: <br>
+bash <br>
+Copy code <br>
+cd netflix-clone <br>
+Open index.html in your browser to view the project. <br>
+Usage <br>
+Browse through different categories of movies. <br>
+Click on a movie to view more details. <br>
+<h2>Contributing </h2>
 Contributions are welcome! If you have suggestions or improvements, please create a pull request or open an issue.
 
-License
+<h2>License</h2>
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgments
-Inspired by the Netflix user interface and experience.
+<h2>Acknowledgments</h2>
+Inspired by the Netflix user interface and experience. <br>
 Feel free to explore and contribute to this project. Happy coding!
 
 Replace path_to_screenshot_home_page and path_to_screenshot_movie_details_page with the actual paths to your screenshots, and update https://github.com/your-username/netflix-clone.git with the actual URL of your GitHub repository.
