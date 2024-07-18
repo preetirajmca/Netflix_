@@ -1,5 +1,5 @@
  <h1> Netflix Clone </h1>
-Welcome to the Netflix Clone repository! This project aims to replicate the core functionality and user interface of Netflix using HTML, CSS, and JavaScript. The clone includes features like browsing movies, viewing details, and a responsive design that adapts to various screen sizes.
+Welcome to the Netflix Clone repository! This project aims to replicate Netflix's core functionality and user interface using HTML, CSS, and JavaScript. The clone includes features like browsing movies, viewing details, and a responsive design that adapts to various screen sizes.
 
 <h2>Features</h2>
 <b>Home Page:</b>  A main landing page showcasing featured movies and categories. <br>
@@ -20,7 +20,7 @@ Installation <br>
 Clone the repository: <br>
 bash <br>
 Copy code <br>
-git clone https://github.com/your-username/netflix-clone.git <br>
+git clone https://github.com/preetirajmca/netflix-clone.git <br>
 Navigate to the project directory: <br>
 bash <br>
 Copy code <br>
@@ -39,4 +39,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Inspired by the Netflix user interface and experience. <br>
 Feel free to explore and contribute to this project. Happy coding!
 
-Replace path_to_screenshot_home_page and path_to_screenshot_movie_details_page with the actual paths to your screenshots, and update https://github.com/your-username/netflix-clone.git with the actual URL of your GitHub repository.
+Replace path_to_screenshot_home_page and path_to_screenshot_movie_details_page with the actual paths to your screenshots, and update https://github.com/preetirajmca/netflix-clone.git with the exact URL of your GitHub repository.
