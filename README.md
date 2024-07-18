@@ -1,4 +1,4 @@
-#Netflix Clone
+ <h1> Netflix Clone </h1>
 Welcome to the Netflix Clone repository! This project aims to replicate the core functionality and user interface of Netflix using HTML, CSS, and JavaScript. The clone includes features like browsing movies, viewing details, and a responsive design that adapts to various screen sizes.
 
 Features
